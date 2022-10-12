@@ -119,7 +119,7 @@ function App() {
     <div className="App">
       <header>
         <h3>
-          <span>Вы:</span> <b>{user.wins}</b>
+          <span>You:</span> <b>{user.wins}</b>
         </h3>
         <h3>
           <img
